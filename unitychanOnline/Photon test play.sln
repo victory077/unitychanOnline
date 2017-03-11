@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon test play", "Assembly-CSharp-firstpass.csproj", "{F890CED8-4A87-889B-13D8-CEEC9DD11544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon test play", "Assembly-CSharp.csproj", "{CDD8AA88-2951-3D3C-8B13-2DED35241FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Photon test play", "Assembly-CSharp-Editor.csproj", "{CD0CCA67-20E2-B53E-E2DC-741FFE2619B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F890CED8-4A87-889B-13D8-CEEC9DD11544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F890CED8-4A87-889B-13D8-CEEC9DD11544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F890CED8-4A87-889B-13D8-CEEC9DD11544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F890CED8-4A87-889B-13D8-CEEC9DD11544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD8AA88-2951-3D3C-8B13-2DED35241FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD8AA88-2951-3D3C-8B13-2DED35241FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD8AA88-2951-3D3C-8B13-2DED35241FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD8AA88-2951-3D3C-8B13-2DED35241FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD0CCA67-20E2-B53E-E2DC-741FFE2619B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0CCA67-20E2-B53E-E2DC-741FFE2619B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0CCA67-20E2-B53E-E2DC-741FFE2619B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0CCA67-20E2-B53E-E2DC-741FFE2619B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
